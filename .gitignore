@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.db
+*.sqlite3
+*.egg-info/
+
+# ????
+.env
+*.pem
+*.key
+secrets.json
+
+# IDE
+.vscode/
+.idea/
+
+# ??
+*.log
+
+# ????
+*.tmp
