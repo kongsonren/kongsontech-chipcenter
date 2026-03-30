@@ -4,7 +4,3 @@ plotly==5.19.0
 openpyxl==3.1.2
 Pillow==10.2.0
 requests==2.31.0
-sqlalchemy==2.0.25
-psycopg2-binary==2.9.9  # 如果用 PostgreSQL
-# 或者
-# mysql-connector-python==8.3.0  # 如果用 MySQL
